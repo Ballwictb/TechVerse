@@ -45,4 +45,8 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactar con nosotros en [n
 
 ---
 
+> [!IMPORTANT]\
+> Queremos hacer hincapié en que estamos llevando a cabo un TFG.\
+> Es importante destacar que no nos responsabilizamos por cualquier daño o malentendido que pueda surgir.
+
 ¡Gracias por visitar TeachVerse y ser parte de nuestra comunidad educativa!
