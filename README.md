@@ -60,4 +60,4 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactar con nosotros en [n
 
 <p align="center"><a href="https://github.com/IsraC0d33/Proyecto1Marcas/pulse"><img src="http://randojs.com/images/barsSmall.gif" alt="Barras animadas" width="100%"/></a></p>
 
-<p align="center"><a href="https://github.com/IsraC0d33/Proyecto1Marcas"><img src="http://randojs.com/images/backToTopButton.png" alt="Volver al principio" height="30"/></a></p>
+<p align="center"><a href="https://github.com/Ballwictb/TechVerse"><img src="http://randojs.com/images/backToTopButton.png" alt="Volver al principio" height="30"/></a></p>
