@@ -2,7 +2,7 @@
 
 Bienvenido a **TeachVerse**, una plataforma innovadora diseñada específicamente para docentes. Aquí, los educadores pueden conectarse, compartir ideas y recursos, y crecer juntos en una comunidad colaborativa.
 
-![TeachVerse](./img/main-logo-black-transparent.svg)
+![TeachVerse](./img/main-logo-white-transparent.svg)
 
 ## Descripción
 
