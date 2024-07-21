@@ -16,9 +16,7 @@ Bienvenido a **TeachVerse**, una plataforma innovadora diseñada específicament
 
 ## Capturas de Pantalla
 
-![Página Principal](./assets/images/screenshot1.png)
-![Perfil de Usuario](./assets/images/screenshot2.png)
-![Intercambio de Recursos](./assets/images/screenshot3.png)
+![Página Principal](./img/techverse-main.png)
 
 ## Tecnologías Utilizadas
 
