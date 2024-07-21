@@ -21,8 +21,8 @@ Bienvenido a **TeachVerse**, una plataforma innovadora diseñada específicament
 ## Tecnologías Utilizadas
 
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap
-- **Backend:** Aun nada
-- **Base de Datos:** Aun nada
+- **Backend:** Aún nada.
+- **Base de Datos:** Aún nada.
 - **Hosting:** Vercel
 
 ## Contribuir
