@@ -7,3 +7,17 @@ nombre apellido
 edad validador de edad
 año de nacimiento
 check de que acepta nuestros terminos y condiciones
+
+
+Fecha -> 11/08/2024  
+
+
+llamadas ->
+
+1 - definir nuestro trabajo -> 26 
+
+2 - para ver como vamos -> 4 / 08
+
+
+
+
