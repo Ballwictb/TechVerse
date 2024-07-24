@@ -1,0 +1,9 @@
+Plantilla Registrarse
+Conexion a base de datos
+validador de correo
+validador de usuario 
+Que llegue a la base de datos cifrada
+nombre apellido 
+edad validador de edad
+año de nacimiento
+check de que acepta nuestros terminos y condiciones
