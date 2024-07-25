@@ -66,10 +66,11 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactar con nosotros en [n
 ---
 
 > [!IMPORTANT]\
-> Queremos hacer hincapié en que estamos llevando a cabo un TFG (Trabajo de Fin de Grado).\
-> Es importante destacar que no nos responsabilizamos por cualquier daño o malentendido que pueda surgir.
+> Queremos hacer hincapié en que estamos llevando a cabo un **TFG (Trabajo de Fin de Grado)**.\
+> Es importante destacar que **no** nos responsabilizamos por cualquier **daño** o **malentendido** que pueda surgir.
 
-¡Gracias por visitar TeachVerse y ser parte de nuestra comunidad educativa!
+<br>
+<p align="center"><b>¡Gracias por visitar TeachVerse y ser parte de nuestra comunidad educativa!</b></p>
 
 <p align="center"><a href="https://github.com/Ballwictb/TechVerse/pulse"><img src="http://randojs.com/images/barsSmall.gif" alt="Barras animadas" width="100%"/></a></p>
 
