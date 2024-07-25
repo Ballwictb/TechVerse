@@ -57,6 +57,12 @@ Este proyecto está licenciado bajo la Licencia GNU. Consulta el archivo [LICENS
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactar con nosotros en [nana@nana.com](mailto:nana@nana.com).
 
+## 🧑‍💻 Participantes
+
+<a href="https://github.com/Ballwictb/TechVerse/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=Ballwictb/TechVerse" alt="Contribuidores"/>
+</a>
+
 ---
 
 > [!IMPORTANT]\
