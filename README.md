@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="./img/main-logo-r.png" width="100">
 <h1>TeachVerse</h1>
