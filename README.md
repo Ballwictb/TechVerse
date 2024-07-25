@@ -6,7 +6,8 @@
 <br>
 
 
-Bienvenido a **TeachVerse**, una plataforma diseñada específicamente para **docentes**. Aquí, los educadores pueden **conectarse**, **compartir ideas** y **recursos**, y crecer **juntos** en una comunidad **colaborativa**.
+<p align="center" >Bienvenido a  <b>TeachVerse</b> , una plataforma diseñada específicamente para <b>docentes</b> y <b>alumnos</b>. Aquí pueden <b>conectarse</b>, 
+  <b>compartir ideas</b> y <b>recursos</b> , y crecer <b>juntos</b> en una comunidad <b>colaborativa</b>.<p/>
 
 ![TeachVerse](./img/banner-g2.png)
 
