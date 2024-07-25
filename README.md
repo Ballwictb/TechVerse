@@ -14,7 +14,7 @@
 
 ## Descripción
 
-**TeachVerse** es una red social dedicada a los docentes, donde pueden interactuar entre ellos, compartir materiales educativos, discutir estrategias pedagógicas y apoyarse mutuamente en su desarrollo profesional. Nuestra misión es transformar la educación a través de la colaboración y el intercambio de conocimientos.
+**TeachVerse** es una red social dedicada a los docentes y alumnos, donde pueden interactuar entre ellos, compartir materiales educativos, discutir estrategias pedagógicas y apoyarse mutuamente en su desarrollo profesional y personal. Nuestra misión es transformar la educación a través de la colaboración y el intercambio de conocimientos.
 
 ## Características
 
@@ -38,17 +38,7 @@
 
 - **Backend:** Aún nada.
 - **Base de Datos:** Aún nada.
-- **Hosting:** Vercel
-
-## Contribuir
-
-¡Contribuciones son bienvenidas! Por favor, sigue los pasos a continuación para contribuir:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza los cambios necesarios y haz commit (`git commit -m 'Añadir nueva característica'`).
-4. Haz push a la rama (`git push origin feature/nueva-caracteristica`).
-5. Abre un Pull Request.
+- **Hosting:** Github
 
 ## Licencia
 
