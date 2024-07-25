@@ -1,4 +1,10 @@
-# TeachVerse
+<div align="center">
+<img src="./img/main-logo-r.png" width="100">
+<h1>TeachVerse</h1>
+
+</div>
+<br>
+
 
 Bienvenido a **TeachVerse**, una plataforma diseñada específicamente para **docentes**. Aquí, los educadores pueden **conectarse**, **compartir ideas** y **recursos**, y crecer **juntos** en una comunidad **colaborativa**.
 
