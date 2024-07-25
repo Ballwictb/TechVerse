@@ -7,7 +7,7 @@
 <br>
 
 
-<p align="center" >Bienvenido a  <b>TeachVerse</b> , una plataforma diseñada específicamente para <b>docentes</b> y <b>alumnos</b>. Aquí pueden <b>conectarse</b>, 
+<p align="center" >Bienvenido a  <b>TeachVerse</b> , una plataforma diseñada para <b>docentes</b> y <b>alumnos</b>. Aquí pueden <b>conectarse</b>, 
   <b>compartir ideas</b> y <b>recursos</b> , y crecer <b>juntos</b> en una comunidad <b>colaborativa</b>.<p/>
 
 ![TeachVerse](./img/banner-g2.png)
