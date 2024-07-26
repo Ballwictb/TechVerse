@@ -1,23 +1,31 @@
-Plantilla Registrarse
-Conexion a base de datos
-validador de correo
-validador de usuario 
-Que llegue a la base de datos cifrada
-nombre apellido 
-edad validador de edad
-año de nacimiento
-check de que acepta nuestros terminos y condiciones
+Plantilla Registrarse (HTML, BS)
+ASIGNACIONES:
+    Jerarquia-> carpetas y estructura (header, etc)  JAMAL
+    Formulario-> email,contra,usuario,id,inputs  ISRA Y ANDRES
+    Boostrap->  JAMAL
+
+Validador de correo (JS)
+ASIGNACIONES:
+    @educa  .edu -> correos oficiales educacionales  JAMAL
+
+Validador de usuario (JS y JSON)
+ASIGNACIONES:
+    validar que el usuario este en el diccionario  ANDRES
+    validar año de nacimiento  ISRA
+    (en un futuro validar con BBDD)
+    nombre apellido JAMAL
+    check de que acepta nuestros terminos y condiciones
+
+
+Conexion a base de datos - php (por ahora no)
+
+Que llegue a la base de datos cifrada (por ahora no)
 
 
 Fecha -> 11/08/2024  
-
 
 llamadas ->
 
 1 - definir nuestro trabajo -> 26 
 
 2 - para ver como vamos -> 4 / 08
-
-
-
-
