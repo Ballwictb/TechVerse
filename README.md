@@ -51,7 +51,7 @@ Si tienes alguna pregunta o sugerencia, no dudes en contactar con nosotros en [n
 ## 🧑‍💻 Participantes
 
 <a href="https://github.com/Ballwictb/TechVerse/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Ballwictb/TechVerse" alt="Contribuidores"/>
+<img src="https://contrib.rocks/image?repo=Ballwictb/" alt="Contribuidores"/>
 </a>
 
 ---
