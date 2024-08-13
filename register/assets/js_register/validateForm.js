@@ -123,7 +123,7 @@ function validateregex(email) {
 }
 
 async function getDic() {
-    const response = await fetch("/assets/json_register/usersN.json");
+    const response = await fetch("../json_register/usersN.json");
     const data = await response.json();
     return data;
 }
