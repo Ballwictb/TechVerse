@@ -123,7 +123,7 @@ function validateregex(email) {
 }
 
 async function getDic() {
-    const response = await fetch("../json_register/usersN.json");
+    const response = await fetch("./assets/json_register/usersN.json");
     const data = await response.json();
     return data;
 }
@@ -143,19 +143,19 @@ checkEmail.addEventListener('change', () => validateCheck())
 eyPass.addEventListener('click', () => {
     if (pass1.getAttribute('type') == 'password') {
         pass1.setAttribute('type', 'text');
-        eyPass.children[0].src = "/assets/img/openEye.png";
+        eyPass.children[0].src = "./assets/img/openEye.png";
     } else {
         pass1.setAttribute('type', 'password');
-        eyPass.children[0].src = "/assets/img/eye.png";
+        eyPass.children[0].src = "./assets/img/eye.png";
     }
 });
 
 eyPass2.addEventListener('click', () => {
     if (pass2.getAttribute('type') == 'password') {
         pass2.setAttribute('type', 'text');
-        eyPass2.children[0].src = "/assets/img/openEye.png";
+        eyPass2.children[0].src = "./assets/img/openEye.png";
     } else {
         pass2.setAttribute('type', 'password');
-        eyPass2.children[0].src = "/assets/img/eye.png";
+        eyPass2.children[0].src = "./assets/img/eye.png";
     }
 });
