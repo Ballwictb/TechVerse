@@ -25,6 +25,8 @@
 ## Capturas de Pantalla
 
 ![Página Principal](./img/techverse-main.png)
+![Página Principal](./img/TechVerse_LogIn.png)
+![Página Principal](./img/TechVerse_Register.png)
 
 ## Tecnologías Utilizadas
 
