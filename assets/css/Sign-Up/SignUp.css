@@ -1,0 +1,21 @@
+.pass {
+    position: absolute;
+    right: 30px;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+@media (max-width: 575.98px) {
+    .text-mobile-cyan {
+        color: #55B7FF;
+    }
+
+    .text-mobile-32 {
+        font-size: 32px;
+    }
+
+    .text-mobile-23 {
+        font-size: 23px;
+    }
+}
