@@ -83,7 +83,7 @@ function validateregex(email) {
 }
 
 async function getDic() {
-    const response = await fetch("../assets/json_log/usersN.json");
+    const response = await fetch("./assets/json_log/usersN.json");
     const data = await response.json();
     return data;
 }
@@ -95,10 +95,10 @@ pass1.addEventListener('input', () => validatePass());
 eyPass.addEventListener('click', () => {
     if (pass1.getAttribute('type') == 'password') {
         pass1.setAttribute('type', 'text');
-        eyPass.children[0].src = "../assets/img/openEye.png";
+        eyPass.children[0].src = "./assets/img/openEye.png";
     } else {
         pass1.setAttribute('type', 'password');
-        eyPass.children[0].src = "../assets/img/eye.png";
+        eyPass.children[0].src = "./assets/img/eye.png";
     }
 });
 
