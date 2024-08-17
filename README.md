@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="./img/main-logo-r.png" width="100">
+<img src="./assets/images/logo/main-logo-r.png" width="100">
 <h1>TeachVerse</h1>
 
 </div>
@@ -10,7 +10,7 @@
 <p align="center" >Bienvenido a  <b>TeachVerse</b> , una plataforma diseñada para <b>docentes</b> y <b>alumnos</b>. Aquí pueden <b>conectarse</b>, 
   <b>compartir ideas</b> y <b>recursos</b> , y crecer <b>juntos</b> en una comunidad <b>colaborativa</b>.<p/>
 
-![TeachVerse](./img/banner-g2.png)
+![TeachVerse](./assets/images/banner/banner-g2.png)
 
 ## Descripción
 
@@ -24,9 +24,9 @@
 
 ## Capturas de Pantalla
 
-![Página Principal](./img/techverse-main.png)
-![Página Principal](./img/TechVerse_LogIn.png)
-![Página Principal](./img/TechVerse_Register.png)
+![Página Principal](./assets/images/examples/techverse-ComingSoon.png)
+![Página Principal](./assets/images/examples/TechVerse_SignIn.png)
+![Página Principal](./assets/images/examples/TechVerse_SignUp.png)
 
 ## Tecnologías Utilizadas
 
