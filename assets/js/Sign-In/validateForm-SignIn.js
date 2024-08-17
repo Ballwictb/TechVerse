@@ -83,7 +83,7 @@ function validateregex(email) {
 }
 
 async function getDic() {
-    const response = await fetch("../json/users-banned/banned-users.json");
+    const response = await fetch("../../json/users-banned/banned-users.json");
     const data = await response.json();
     return data;
 }
