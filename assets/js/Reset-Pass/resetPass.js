@@ -1,4 +1,3 @@
-const userEmail = document.querySelector('#user');
 const submitEmail = document.querySelector('#formulario [type="submit"]');
 const email = document.querySelector('#email');
 
@@ -16,6 +15,7 @@ function validateCheck() {
     validateForm();
 }
 
+
 function validateEmail(e) {
     if (!validateregex(e.value) || e.value.trim() === "") {
         e.classList.add('text-danger', 'is-invalid');
@@ -24,6 +24,8 @@ function validateEmail(e) {
     }
     validateForm();
 }
+
+
 
 function setSubmitState(isValid) {
     if (isValid) {
@@ -47,4 +49,7 @@ function validateregex(email) {
     return regex.test(email);
 }
 
+
+
 email.addEventListener('input', (e) => validateEmail(e.target));
+
